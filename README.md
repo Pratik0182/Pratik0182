@@ -1,18 +1,96 @@
-# 💫 About Me:
-Hello! I'm Pratik, a CSE undergrad at NIT Delhi
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00264D,100:005792&height=200&section=header&text=Hi,%20I'm%20Pratik!&fontSize=40&fontColor=ffffff" />
+</p>
 
+<!-- About Me -->
+<div align="center" style="background-color:#f5f5f5; padding: 20px; border-radius: 12px;">
+  
+### About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hindrance_82) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pratik0182) 
+**Computer Science Undergrad** at **NIT Delhi**  
+Passionate about **Game Dev**, **Graph DBs**, and **AI/ML**  
+Exploring **Godot**, **Neo4j**, and building cool stuff!
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pratik0182&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pratik0182&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik0182&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pratik0182&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Connect Section -->
+<div align="center">
+
+### Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/Pratik0182" title="LinkedIn style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.leetcode.com/Pratik182" target="blank" style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pratik182" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/hindrance_82" title="Instagram style="margin: 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<!-- Tech Stack -->
+<div align="center">
+
+### Tech Stack
+
+<p>
+  <a href="https://www.python.org/" title="Python" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" title="C++" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://godotengine.org/" title="Godot Engine" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://neo4j.com/" title="Neo4j" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" title="MySQL" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" title="NumPy" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" title="Git" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" title="GitHub" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center" style="background-color:#1a1a1a; padding: 20px; border-radius: 12px;">
+
+### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik0182&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="50%"/>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik0182&theme=tokyonight&hide_border=false&layout=compact" width="35%"/>
+</p>
+
+</div>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00264D,100:005792&height=100&section=footer"/>
+</p>
