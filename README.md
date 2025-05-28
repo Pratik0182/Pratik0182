@@ -25,9 +25,6 @@ Exploring **Godot**, **Neo4j**, and building cool stuff!
   <a href="https://linkedin.com/in/Pratik0182" title="LinkedIn style="margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.leetcode.com/Pratik182" target="blank" style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pratik182" width="40" height="40"/>
-  </a>
   <a href="https://instagram.com/hindrance_82" title="Instagram style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
   </a>
