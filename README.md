@@ -30,23 +30,21 @@
 
 ### What I usually work with:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot"/> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=zC9SDvhmTlTo&format=png" height="40" alt="Vim"/> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=aw6TD81roa2S&format=png" height="40" alt="Neo4j"/> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=17838&format=png" height="40" alt="Debian"/> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=jboFV8ZOXgZR&format=png" height="40" alt="Ubuntu"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" height="40" alt="Pandas"/> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=jH4BpkMnRrU5&format=png" height="40" alt="PyTorch"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> &nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=4MhUS4CzoLbx&format=png" height="40" alt="GitHub"/> &nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></a> &nbsp;&nbsp;
+<a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/></a> &nbsp;&nbsp;
+<a href="https://gcc.gnu.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/></a> &nbsp;&nbsp;
+<a href="https://godotengine.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot"/></a> &nbsp;&nbsp;
+<a href="https://www.vim.org/" target="_blank"><img src="https://img.icons8.com/?size=512&id=zC9SDvhmTlTo&format=png" height="40" alt="Vim"/></a> &nbsp;&nbsp;
+<a href="https://neo4j.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=aw6TD81roa2S&format=png" height="40" alt="Neo4j"/></a> &nbsp;&nbsp;
+<a href="https://www.debian.org/" target="_blank"><img src="https://img.icons8.com/?size=512&id=17838&format=png" height="40" alt="Debian"/></a> &nbsp;&nbsp;
+<a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=jboFV8ZOXgZR&format=png" height="40" alt="Ubuntu"/></a> &nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/></a> &nbsp;&nbsp;
+<a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/></a> &nbsp;&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" height="40" alt="Pandas"/></a> &nbsp;&nbsp;
+<a href="https://pytorch.org/" target="_blank"><img src="https://img.icons8.com/?size=512&id=jH4BpkMnRrU5&format=png" height="40" alt="PyTorch"/></a> &nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/></a> &nbsp;&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=4MhUS4CzoLbx&format=png" height="40" alt="GitHub"/></a>
 </p>
-
-</div>
 
 ---
 
