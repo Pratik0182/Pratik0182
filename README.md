@@ -1,93 +1,103 @@
-<!-- Profile Banner -->
+<div align="center">
+  <span>
+    <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=30&duration=1&pause=999999999&color=3399FF&width=300&lines=hello%2C+i'm+pratik" alt="Typing SVG" />
+  </span>
+  <span>
+    <img src="https://readme-typing-svg.demolab.com?font=Merriweather&size=30&duration=5500&pause=250&color=3399FF&width=400&lines=aka+hinder+around+the+web;you+can+call+me+hinder;" alt="Typing SVG" />
+  </span>
+</div>
+
+
+<!-- About -->
+<div align="center">
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00264D,100:005792&height=200&section=header&text=Hi,%20I'm%20Pratik!&fontSize=40&fontColor=ffffff" />
+>>> computer science undergrad @NIT Delhi
+</p>
+<p align="center">
+>>> enjoys solving dsa problems, playing action RPGs and soulslike games
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/Pratik0182/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="mailto:pkumarjee2006@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/hindrance_82/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="Instagram"></a>&nbsp;&nbsp;
 </p>
 
-<!-- About Me -->
-<div align="center" style="background-color:#f5f5f5; padding: 20px; border-radius: 12px;">
+</div>
+
+---
+<div align="center">
+
+### What I usually work with:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=zC9SDvhmTlTo&format=png" height="40" alt="Vim"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=aw6TD81roa2S&format=png" height="40" alt="Neo4j"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=17838&format=png" height="40" alt="Debian"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=jboFV8ZOXgZR&format=png" height="40" alt="Ubuntu"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" height="40" alt="Pandas"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=jH4BpkMnRrU5&format=png" height="40" alt="PyTorch"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=4MhUS4CzoLbx&format=png" height="40" alt="GitHub"/> &nbsp;&nbsp;
+</p>
+
+</div>
+
+---
+
+### More about me:
+```python
+class Person:
+  species = 'Homo Sapiens'
+
+  def __init__(self, name, age, hobbies, education, city, country):
+    self._name = name
+    self._age = age
+    self._hobbies = hobbies
+    self._education = education
+    self._city = city
+    self._country = country
+
+  def __str__(self):
+        return (f"Species: {Person.species}\n"
+            f"Name: {self._name}\n"
+            f"Age: {self._age}\n"
+            f"Education: {self._education}\n"
+            f"Hobbies : {', '.join(self._hobbies)}\n"
+            f"Location: {self._city}, {self._country}\n"
+        )
+
+class Pratik(Person):
+  def __init__(self):
+    super().__init__(
+      name = 'Pratik Kumar Singh',
+      age = 19,
+      hobbies = ['chess', 'video games', 'exploring about cosmos', 'watching instagram reels', 'overthinking'],
+      education = 'National Institute Of Technology, Delhi',
+      city = 'Chandigarh',
+      country = 'India'
+    )
+    self._leetcode_username = 'Pratik182' #1700+ contest rating
   
-### About Me
+  def __str__(self):
+    return super().__str__() + f'Leetcode: {self._leetcode_username}'
 
-**Computer Science Undergrad** at **NIT Delhi**  
-Passionate about **Game Dev**, **Graph DBs**, and **AI/ML**  
-Exploring **Godot**, **Neo4j**, and building cool stuff!
-
-</div>
-
----
-
-<!-- Connect Section -->
+me = Pratik()
+print(me)
+  
+```
 <div align="center">
 
-### Connect with Me
+### Some GitHub Stats:
 
-<p>
-  <a href="https://linkedin.com/in/Pratik0182" title="LinkedIn style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/hindrance_82" title="Instagram style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-  </a>
-</p>
-
-</div>
-
----
-
-<!-- Tech Stack -->
-<div align="center">
-
-### Tech Stack
-
-<p>
-  <a href="https://www.python.org/" title="Python" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" title="C++" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://godotengine.org/" title="Godot Engine" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://neo4j.com/" title="Neo4j" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" title="MySQL" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" title="NumPy" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" title="Git" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" title="GitHub" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<!-- GitHub Stats -->
-<div align="center" style="background-color:#1a1a1a; padding: 20px; border-radius: 12px;">
-
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik0182&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="50%"/>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik0182&theme=tokyonight&hide_border=false&layout=compact" width="35%"/>
-</p>
-
-</div>
-
----
-
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00264D,100:005792&height=100&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik0182&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF" height="180px"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik0182&hide_border=false&layout=compact&bg_color=000000&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF" height="180px" width="400px"/>
 </p>
+</div>
