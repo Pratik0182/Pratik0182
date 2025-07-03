@@ -26,9 +26,10 @@
 </div>
 
 ---
-<div align="center">
+<div style="text-align: center;">
+  <h3>What I usually work with:</h3>
+</div>
 
-### What I usually work with:
 <p align="center">
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></a> &nbsp;&nbsp;
 <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/></a> &nbsp;&nbsp;
@@ -89,7 +90,6 @@ me = Pratik()
 print(me)
   
 ```
-<div align="center">
 
 ### Some GitHub Stats:
 
