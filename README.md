@@ -76,7 +76,7 @@ class Pratik(Person):
     super().__init__(
       name = 'Pratik Kumar Singh',
       age = 19,
-      hobbies = ['chess', 'video games', 'exploring about cosmos', 'watching instagram reels', 'overthinking'],
+      hobbies = ['chess', 'video games', 'exploring about cosmos', 'watching reels'],
       education = 'National Institute Of Technology, Delhi',
       city = 'Chandigarh',
       country = 'India'
