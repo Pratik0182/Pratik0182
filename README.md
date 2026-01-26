@@ -51,26 +51,6 @@
 
 ### More about me:
 ```python
-class Person:
-  species = 'Homo Sapiens'
-
-  def __init__(self, name, age, hobbies, education, city, country):
-    self._name = name
-    self._age = age
-    self._hobbies = hobbies
-    self._education = education
-    self._city = city
-    self._country = country
-
-  def __str__(self):
-        return (f"Species: {Person.species}\n"
-            f"Name: {self._name}\n"
-            f"Age: {self._age}\n"
-            f"Education: {self._education}\n"
-            f"Hobbies : {', '.join(self._hobbies)}\n"
-            f"Location: {self._city}, {self._country}\n"
-        )
-
 class Pratik(Person):
   def __init__(self):
     super().__init__(
